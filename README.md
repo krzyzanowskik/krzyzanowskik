@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m [Kamil Krzyzanowski](https://www.linkedin.com/in/kamil-krzy%C5%BCanowski-735a28b2/)
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning everyday something new!
+- 🌱 I’m currently learning every day something new!
 
 <br>
 

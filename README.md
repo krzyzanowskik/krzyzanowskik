@@ -4,12 +4,10 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning every day something new!
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=krzyzanowskik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="krzyzanowskik's Github Stats">
-
-</br>
-
+<img
+  src="https://streak-stats.demolab.com?user=krzyzanowskik&theme=tokyonight"
+  alt="GitHub Streak"
+/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
